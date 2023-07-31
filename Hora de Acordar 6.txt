@@ -1,0 +1,10 @@
+programa {
+  funcao inicio() {
+    escreva (Abrir o olho)
+    escreva (Esperar por 5 minutos o corpo relaxar)
+    escreva (Tire o cobertos)
+    escreva (Vire o corpo)
+    escreva (Levante da cama)
+    escreva (Pegue o chinelo)
+  }
+}
